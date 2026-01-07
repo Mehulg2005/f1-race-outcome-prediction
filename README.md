@@ -28,12 +28,12 @@ The model uses the following features:
 ---------------------------------------------------------------------------------------------
 |     Feature                          | Description                                        |
 ---------------------------------------------------------------------------------------------
-|     QualifyingTime	                 | Driver qualifying lap time                         |
-|     TotalSectorTime            	     | Average sector performance from previous season    |
-|     TeamPerformanceScore	           | Normalized constructor championship points         |
-|     DriverPoints	                   | Driver championship points                         |
-|     RainProbability	                 | Pre-race rain probability (manual input)           |
-|     Temperature	                     | Estimated race-day temperature                     |
+|     QualifyingTime	               | Driver qualifying lap time                         |
+|     TotalSectorTime            	   | Average sector performance from previous season    |
+|     TeamPerformanceScore	   | Normalized constructor championship points         |
+|     DriverPoints	               | Driver championship points                         |
+|     RainProbability	               | Pre-race rain probability (manual input)           |
+|     Temperature	               | Estimated race-day temperature                     |
 |     LastYearWinner                   | Binary indicator for previous year’s race winner   |
 ---------------------------------------------------------------------------------------------
 
