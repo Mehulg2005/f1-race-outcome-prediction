@@ -30,7 +30,7 @@ sector_times_2024["TotalSectorTime (s)"] = (
     sector_times_2024["Sector3Time (s)"]
 )
 
-#2025 Bahrain GP quali data (we need to change this before Jeddah)
+#2025 Bahrain GP quali data 
 qualifying_2025 = pd.DataFrame({
     "Driver":["VER","NOR","PIA","LEC","RUS","HAM","GAS","ALO","TSU","SAI","HUL","OCO","STR"],
     "QualifyingTime (s)": [82.207, 82.408, 82.437, 82.730, 82.645,
